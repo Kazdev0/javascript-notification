@@ -1,7 +1,7 @@
 var options = {
-    "title":"Bu Bir Başlıktır",
+    "title":"This Example Title",
     "icon":"./assets/example.png",
-    "body":"Bu Bir Açıklamadır"
+    "body":"This Example Description"
 }
 function NotificationSend() {
         Notification.requestPermission();
