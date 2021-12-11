@@ -1,0 +1,16 @@
+*{
+    margin:0;
+    padding:0;
+}
+#app {
+    text-align: center;
+}
+#text {
+    font-size: 30px;
+}
+#button{
+    height: 35px;
+    width: 70px;
+}
+
+/*Github https://github.com/Kazdev0*/
